@@ -1,0 +1,19 @@
+{
+  "name": "台湾旅ノート | TAAI 2026",
+  "short_name": "台湾旅ノート",
+  "description": "台湾旅行のスケジュール・シャトルバス・お土産・メモ・予算・持ち物",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f9f8f5",
+  "theme_color": "#0d3b3a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
